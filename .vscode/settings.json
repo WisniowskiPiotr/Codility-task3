@@ -1,0 +1,7 @@
+{
+"files.autoSave": "onFocusChange",
+"files.associations": {
+  "*hpp*hpp*hpp*hpp*hppslist": "cpp",
+  "*hpp*hpp*hpp*hppinitializer_list": "cpp"
+}
+}
